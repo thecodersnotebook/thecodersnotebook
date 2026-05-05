@@ -15,7 +15,7 @@ I’m always open to ideas, collaborations, or just connecting.
 ---
 
 **A few things about me:**
-- I love reading and knitting, do share any book recs 
-- I play guitar (occasionally)  
-- building things from scratch  
-- You’ll probably find me at the gym or deep in a random idea
+- 📖 I love reading!! Always looking for new book recs 
+- 🎸 I play guitar and knit (occasionally)  
+- 👩🏾‍💻 building things from scratch  
+- 🏃🏾‍♀️ You’ll probably find me on a run or deep in a random idea
