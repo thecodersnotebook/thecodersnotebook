@@ -1,14 +1,21 @@
-## Hi there 
+## Hi, I’m Dani
 
-I'm Dani, a 21 year old trying to get better at coding! 
-I love designing and creating new things. 
+I’m a 21-year-old developer exploring the intersection of data, design, and storytelling through code.
 
-My main tech stack is HTML, CSS, Javascript, Python, SQL
+I enjoy building things that are both functional and thoughtful — from small experiments to data-driven projects.
 
-Working on 30 builds for 30 days, my projects can be found @thecodersnotebook on my instagram/tiktok - connect with me, I'm always open to fun project ideas.☀️
+**Tech stack:**  
+HTML, CSS, JavaScript (React), Python, SQL  
 
-Interesting facts:
-- love to read and knit
-- play guitar
-- build new things
-- gym
+I’m currently working on a *30 builds in 30 days* series — documenting the process, not just the outcomes.  
+You can follow along @thecodersnotebook on Instagram and TikTok.
+
+I’m always open to ideas, collaborations, or just connecting.
+
+---
+
+**A few things about me:**
+- I love reading and knitting, do share any book recs 
+- I play guitar (occasionally)  
+- building things from scratch  
+- You’ll probably find me at the gym or deep in a random idea
