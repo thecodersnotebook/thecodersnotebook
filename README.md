@@ -1,6 +1,6 @@
-## Hi, I’m Dani
+## ☀️ Hi, I’m Dani! ☀️
 
-I’m a 21-year-old developer exploring the intersection of data, design, and storytelling through code.
+I’m a 21-year-old developer exploring the intersection of data, design, and storytelling through code. 
 
 I enjoy building things that are both functional and thoughtful — from small experiments to data-driven projects.
 
