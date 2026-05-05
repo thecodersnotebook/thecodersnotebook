@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 
 
-<!--
-**thecodersnotebook/thecodersnotebook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dani, a 21 year old trying to get better at coding! 
+I love designing and creating new things. 
 
-Here are some ideas to get you started:
+My main tech stack is HTML, CSS, Javascript, Python, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working on 30 builds for 30 days, my projects can be found @thecodersnotebook on my instagram/tiktok - connect with me, I'm always open to fun project ideas.☀️
+
+Interesting facts:
+- love to read and knit
+- play guitar
+- build new things
+- gym
